@@ -15,7 +15,7 @@ This project includes:
   
 - 🐳 Docker Containerization
   
-- ☁️ Cloud Deployment Ready Structure
+
 
 Whenever code is pushed to GitHub, GitHub Actions automatically:
 
@@ -26,6 +26,7 @@ Whenever code is pushed to GitHub, GitHub Actions automatically:
 - Validates the project
   
 - Reports build status
+
 
 
 
@@ -40,6 +41,7 @@ Whenever code is pushed to GitHub, GitHub Actions automatically:
 - GitHub Actions
   
 - Git & GitHub
+
 
 
 
